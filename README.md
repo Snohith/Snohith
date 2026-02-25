@@ -8,18 +8,11 @@
   </p>
 
   <a href="https://github.com/Snohith">
-    <img src="https://komarev.com/ghpvc/?username=Snohith&label=Profile%20Views&color=0e75b6&style=flat" alt="Snohith" />
   </a>
 </div>
 
 <br />
 
-### 🚀 Creating [Devlyst](https://github.com/Snohith/Devlyst)
-I am currently building **Devlyst**, a premium real-time collaborative coding environment.
-- **Stack**: Next.js 15, React 19, Tailwind CSS, Monaco Editor, Yjs (WebSockets).
-- **Features**: Real-time collaborative editing, file system management, terminal simulation, and a glassmorphic UI.
-
----
 
 ### 🛠️ Tech Stack
 
