@@ -46,6 +46,7 @@
 ### 🗄️ Database & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -76,11 +77,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills | Next.js, Tailwind CSS | [View](#) |
-| 🔐 **Auth Flow App** | Full-stack authentication with JWT & protected routes | Next.js, Node.js, JWT | [View](#) |
-| 📋 **REST API Project** | RESTful backend with CRUD operations | Java, Spring Boot, MySQL | [View](#) |
-
-> ⭐ *Pin your best repos on your profile for maximum visibility!*
+| ✈️ **TravelMind** | AI-powered travel planning app with smart itinerary generation and real-time updates | Next.js, TypeScript, Supabase | [View Repo](https://github.com/Snohith/TravelMind) |
+| 💻 **Devlyst** | Premium real-time collaborative coding environment with live sync and Monaco Editor | Next.js, TypeScript, Yjs, WebSockets | [View Repo](https://github.com/Snohith/Devlyst) |
+| 👤 **Profile README** | MNC-grade GitHub profile with live stats, badges and typing animation | Markdown, Shields.io | [View Repo](https://github.com/Snohith/Snohith) |
 
 ---
 
