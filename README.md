@@ -1,13 +1,16 @@
 <div align="center">
 
-  <h1>👋 Hi, I'm Chiluveru Snohith</h1>
-  <h3>Full Stack Developer · Hyderabad, India</h3>
+<h1>👋 Hi, I'm Chiluveru Snohith</h1>
+<h3>Full Stack Developer (Next.js & Java) · CSE @ MRCET '26 · Hyderabad, India</h3>
 
-  <p>
-    <a href="mailto:chiluverusnohith@gmail.com"><img src="https://img.shields.io/badge/Email-chiluverusnohith%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/Snohith"><img src="https://img.shields.io/badge/GitHub-Snohith-181717?style=flat&logo=github&logoColor=white" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Snohith&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-  </p>
+<p>
+  <a href="mailto:chiluverusnohith@gmail.com"><img src="https://img.shields.io/badge/Gmail-chiluverusnohith-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chiluveru-snohith"><img src="https://img.shields.io/badge/LinkedIn-chiluveru--snohith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Snohith"><img src="https://img.shields.io/badge/GitHub-Snohith-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Snohith&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+Java;3rd+Year+CSE+Student+%40+MRCET+%2726;Building+Scalable+Web+Apps;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
 
 </div>
 
@@ -15,73 +18,99 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable, high-performance web applications. I enjoy working across the entire product lifecycle — from system design to deployment — with a focus on clean architecture, real-time collaboration, and great user experiences.
-
-- 🔭 Currently building: **premium full-stack web apps**
-- 🌱 Learning: **System Design, Cloud (AWS/GCP), DevOps best practices**
-- 👯 Open to collaborate on: **open-source projects & SaaS products**
-- 💬 Ask me about: **React, Node.js, REST APIs, Databases**
-- 📫 Reach me at: **chiluverusnohith@gmail.com**
-- ✅ Open to Work: **Yes — Full-time / Internship roles**
+- 🎓 **3rd-year B.Tech CSE student** at Malla Reddy College of Engineering & Technology (MRCET), Hyderabad — graduating in **2026**
+- 💻 **Full Stack Developer** specializing in **Next.js, React, Java & REST APIs**
+- 🔭 Building responsive, performant web apps — end-to-end from frontend to backend
+- 🧠 Practicing **Data Structures & Algorithms** and **OOP in Java**
+- 🌱 Currently exploring **System Design**, **Cloud (AWS/GCP)** & **DevOps best practices**
+- 🤝 Open to **Internship** (Onsite Hyderabad / Remote) & **Full Stack / Java Developer** roles
+- 📫 Reach me at **chiluverusnohith@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+### 💻 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+### 🗄️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snohith&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snohith&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snohith&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snohith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snohith&layout=compact&langs_count=8&theme=tokyonight" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Snohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 🏗️ Featured Projects
 
-> ⭐ *Pin your best repositories from GitHub → Profile → Customize your pins*
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills | Next.js, Tailwind CSS | [View](#) |
+| 🔐 **Auth Flow App** | Full-stack authentication with JWT & protected routes | Next.js, Node.js, JWT | [View](#) |
+| 📋 **REST API Project** | RESTful backend with CRUD operations | Java, Spring Boot, MySQL | [View](#) |
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔗 Coming Soon | High-performance web app | React, Node.js, MongoDB |
-| 🔗 Coming Soon | Real-time collaboration tool | WebSockets, Express, PostgreSQL |
+> ⭐ *Pin your best repos on your profile for maximum visibility!*
+
+---
+
+## 🎯 Currently
+
+```text
+🔨 Building     → Full-stack web apps with Next.js & Java
+📚 Learning     → System Design | AWS/GCP | DevOps
+🤝 Looking for  → Internship (Hyderabad Onsite / Remote)
+💡 Roles Open   → Full Stack Engineer | Software Engineer Intern | Frontend Developer | Java Developer
+```
 
 ---
 
 ## 🤝 Let's Connect
 
-<p>
-  <a href="mailto:chiluverusnohith@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Snohith"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiluveru-snohith)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chiluverusnohith@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Snohith)
+
+</div>
 
 ---
 
-<p align="center">⚡ <i>"Code with purpose. Build with passion."</i></p>
+<div align="center">
+
+*"Code with purpose. Build with passion. Ship with pride."*
+
+**⭐ If you find my work helpful, consider starring my repos!**
+
+</div>
