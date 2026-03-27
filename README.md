@@ -7,7 +7,6 @@
   <a href="mailto:chiluverusnohith@gmail.com"><img src="https://img.shields.io/badge/Gmail-chiluverusnohith-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/chiluveru-snohith"><img src="https://img.shields.io/badge/LinkedIn-chiluveru--snohith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Snohith"><img src="https://img.shields.io/badge/GitHub-Snohith-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Snohith&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+Java;3rd+Year+CSE+Student+%40+MRCET+%2726;Building+Scalable+Web+Apps;Open+to+Internships+%26+Full-Time+Roles" alt="Typing SVG" />
@@ -63,13 +62,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snohith&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snohith&layout=compact&langs_count=8&theme=tokyonight" />
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Snohith&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
@@ -79,7 +71,6 @@
 |---------|-------------|------------|------|
 | ✈️ **TravelMind** | AI-powered travel planning app with smart itinerary generation and real-time updates | Next.js, TypeScript, Supabase | [View Repo](https://github.com/Snohith/TravelMind) |
 | 💻 **Devlyst** | Premium real-time collaborative coding environment with live sync and Monaco Editor | Next.js, TypeScript, Yjs, WebSockets | [View Repo](https://github.com/Snohith/Devlyst) |
-| 👤 **Profile README** | MNC-grade GitHub profile with live stats, badges and typing animation | Markdown, Shields.io | [View Repo](https://github.com/Snohith/Snohith) |
 
 ---
 
