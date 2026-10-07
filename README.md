@@ -1,66 +1,97 @@
-# Hi there, I'm Chiluveru Snohith 👋
+# Chiluveru Snohith
 
-[![Full Stack Developer](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=for-the-badge&logo=codeforces&logoColor=white)](https://linkedin.com/in/chiluveru-snohith)
-[![Education](https://img.shields.io/badge/Education-CSE%20%40%20MRCET%20%2726-orange?style=for-the-badge&logo=education&logoColor=white)](https://github.com/Snohith)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chiluveru%20Snohith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiluveru-snohith)
+**Full Stack Developer — B.Tech CSE '27 @ MRCET, Hyderabad**
 
-> **Passionate Full Stack Developer & Computer Science Undergraduate (CSE '26 @ MRCET)**.  
-> Specializing in high-performance web applications with **Next.js**, **React 19**, **TypeScript**, **Java**, **Python**, **WebSockets**, and real-time collaboration tools.
+[![GitHub](https://img.shields.io/badge/GitHub-Snohith-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Snohith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chiluveru--snohith-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chiluveru-snohith)
+[![Email](https://img.shields.io/badge/Email-chiluverusnohith%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chiluverusnohith@gmail.com)
 
----
-
-## ⚡ Technical Skills & Ecosystem
-
-### 💻 Frontend & Frameworks
-![Next.js](https://img.shields.io/badge/Next.js%2015%2F16-000000?style=flat-square&logo=next.js&logoColor=white)
-![React 19](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco%20Editor-1E1E1E?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-### ⚙️ Backend, Databases & Real-Time
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python%203.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Yjs CRDTs](https://img.shields.io/badge/Yjs%20CRDTs-FFD700?style=flat-square&logo=js&logoColor=black)
-
-### 🛠️ Tooling & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+I build web apps with Next.js, React, and TypeScript — focused on real-time collaboration and data-backed product flows. Final-year CSE undergraduate looking for full-stack roles and internships.
 
 ---
 
-## 🚀 Featured Projects
+## Skills
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :--- |
-| 💻 [**Devlyst**](https://github.com/Snohith/Devlyst) | Real-time collaborative code editor with Monaco Editor, Yjs, WebSockets & cloud execution. | Next.js, Yjs, WebSockets, Docker | 🟢 Active |
-| 🌴 [**TravelMind**](https://github.com/Snohith/TravelMind) | AI-driven travel planner and itinerary generator with interactive Leaflet maps. | Next.js 16, Supabase, Leaflet | 🟢 Active |
-| 🦅 [**srhtrack**](https://github.com/Snohith/srhtrack) | Local-first sports data operations platform & 16-source recon engine for SRH franchises. | Python, Streamlit, Pandas, Pillow | 🟢 Active |
-| 🏏 [**LiveBroadcast**](https://github.com/Snohith/LiveBroadcast) | Real-time cricket score API & 1080p glassmorphic OBS broadcast overlay package. | FastAPI, WebSockets, HTML/CSS | 🟢 Active |
+**Languages:** TypeScript, JavaScript, HTML, CSS, SQL, Java, Python (basic)
+**Frontend:** React 19, Next.js 16 (App Router), Tailwind CSS, Framer Motion, Monaco Editor, Shadcn / Radix UI, React Hook Form + Zod, Leaflet / React-Leaflet
+**Backend & real-time:** Node.js, REST / Server Actions, WebSockets (`ws`, `y-websocket`), Yjs CRDTs, Judge0 CE, Supabase (Auth, Postgres, SSR)
+**Tooling:** Git, Vercel, Render, ESLint, `tsc --noEmit`
 
 ---
 
-## 📈 GitHub Statistics & Activity
+## Featured projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snohith&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Snohith GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snohith&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170"/>
-</div>
+### 1. Devlyst — real-time collaborative code workspace
+
+Shared Monaco editing over Yjs: open a room, share the link, everyone types in the same files with live cursors. Run the current file through Judge0 and see stdout, exit code, and timing in the console panel.
+
+- **Code:** https://github.com/Snohith/Devlyst
+- **Live:** https://devlyst-web.onrender.com/
+- **Stack:** Next.js 16, React 19, TypeScript, Yjs, `y-websocket`, Monaco Editor, Judge0 CE, Clerk (optional), Tailwind CSS
+
+**What I built**
+
+- Dedicated WebSocket relay (`server.js`) passing Yjs CRDT updates between clients in a room; file tree stored as a shared `Y.Map`, cursors and typing state on the awareness channel.
+- Monaco integration with multi-file binding, Prettier formatting, Vim mode, language-aware extensions, and full-room ZIP export.
+- Code execution via `POST /api/execute`: origin check, 20 runs/min per IP, 100 KB source cap, 5 s CPU / 128 MB limits on Judge0, with poll-and-timeout handling.
+- Optional Clerk sign-in; without keys the app runs open with a `localStorage` display name. Two-service Render deploy (web + socket server). PWA installable.
+
+**Run it**
+
+```bash
+git clone https://github.com/Snohith/Devlyst.git && cd Devlyst
+npm install
+node server.js          # terminal 1 — ws://localhost:1234
+npm run dev             # terminal 2 — http://localhost:3000
+```
+
+**Known trade-offs (stated so they don't surface as surprises)**
+
+- Rooms live in socket-server memory: when the last client leaves (or the process restarts), the room is gone. No database by design.
+- Room access is the 5-digit room code — anyone with the link can join; not for sensitive code.
+- Rate limiting is per-process memory (no shared Redis), and runs execute on the public Judge0 instance with its own quotas.
 
 ---
 
-## 📫 Connect with Me
+### 2. TravelMind — trip planner with budget-aware itineraries and maps
 
-- 💼 **LinkedIn**: [linkedin.com/in/chiluveru-snohith](https://linkedin.com/in/chiluveru-snohith)
-- 🌐 **GitHub**: [github.com/Snohith](https://github.com/Snohith)
-- 📍 **Location**: Hyderabad, India
+Enter origin, destination, dates, budget tier, and travel vibe; get a multi-day plan with daily timelines, costs in INR, food guides, and an interactive Leaflet map. Trips persist per user and are reloadable from the dashboard.
+
+- **Code:** https://github.com/Snohith/TravelMind
+- **Stack:** Next.js 16, React 19, TypeScript, Supabase (Auth, Postgres, SSR), Leaflet / React-Leaflet, React Hook Form + Zod, Tailwind CSS v4, Framer Motion
+
+**What I built**
+
+- Server Actions (`generateTrip`, `getTripById`, `getUserTrips`, `deleteTrip`) using the Supabase SSR server client; every read/write is scoped with `eq('user_id', user.id)` from the server session.
+- Input validation with Zod, per-user/per-IP rate limiting, and a 50-trip per-user quota to bound database growth.
+- Itinerary composer that reads the Supabase `cities` table with fallback to a local 10-destination knowledge base; duration and pricing adjust by budget tier (Budget / Standard / Luxury).
+- Supabase Auth with single-session enforcement (`profiles.last_session_id`), paginated dashboard, and custom SVG Leaflet markers (no fragile default-icon patching).
+
+**Run it**
+
+```bash
+git clone https://github.com/Snohith/TravelMind.git && cd TravelMind
+npm install
+# add NEXT_PUBLIC_SUPABASE_URL and NEXT_PUBLIC_SUPABASE_ANON_KEY to .env.local
+npm run dev             # http://localhost:3000
+```
+
+**Known trade-offs**
+
+- Generation is currently rule/template-based over curated data (~10 Indian destinations, extensible through the `cities` table) — not an LLM call. The shape is kept LLM-ready for a future edge-function swap.
+- Day/activity inserts are sequential, not a single cross-table transaction; a mid-write failure can leave a partial trip.
+- Rate limiting is in-memory (documented in code as demo-grade; Redis is the planned replacement). No `middleware.ts` route guard yet — protection lives in the client redirect plus the server-action session check.
 
 ---
-*Created and maintained with ❤️ by Chiluveru Snohith*
+
+## Education
+
+**B.Tech, Computer Science & Engineering** — Malla Reddy College of Engineering and Technology (MRCET), Hyderabad — 2023–2027
+
+## Contact
+
+- Email: chiluverusnohith@gmail.com
+- Phone: +91 8074278281
+- LinkedIn: [linkedin.com/in/chiluveru-snohith](https://linkedin.com/in/chiluveru-snohith)
+- GitHub: [github.com/Snohith](https://github.com/Snohith)
+- Location: Hyderabad, India
